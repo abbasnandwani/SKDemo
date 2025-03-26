@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "ProcessAutomation": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "AOAI_ENDPOINT": "https://sparksopenaiauseast.openai.azure.com/",
+        "AOAI_DEPLOYMENT": "sparksgpt432k",
+        "AOAI_APIKEY": "28ef63af825a47f6a3d5f008abaaa08f"
+      }
+    }
+  }
+}

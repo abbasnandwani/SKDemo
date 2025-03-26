@@ -1,0 +1,7 @@
+﻿[*.cs]
+
+# SKEXP0080: Type is for evaluation purposes only and is subject to change or removal in future updates. Suppress this diagnostic to proceed.
+dotnet_diagnostic.SKEXP0080.severity = none
+
+# SKEXP0010: 'Microsoft.SemanticKernel.Connectors.OpenAI.OpenAIPromptExecutionSettings.ResponseFormat' is for evaluation purposes only and is subject to change or removal in future updates. Suppress this diagnostic to proceed.
+dotnet_diagnostic.SKEXP0010.severity = none
